@@ -1,0 +1,1 @@
+This project should be installed as CLFFT_DIR with ProjectTool.
