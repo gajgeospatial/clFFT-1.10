@@ -1,0 +1,17 @@
+C:/Development/op3d_active/clFFT-1.10/src/msvc/CMakeFiles/PACKAGE.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/CMakeFiles/ZERO_CHECK.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/library/CMakeFiles/clFFT.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/library/CMakeFiles/PACKAGE.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/library/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/scripts/perf/CMakeFiles/PACKAGE.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/scripts/perf/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/statTimer/CMakeFiles/StatTimer.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/statTimer/CMakeFiles/PACKAGE.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/statTimer/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/examples/CMakeFiles/example_examples_fft1d.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/examples/CMakeFiles/example_examples_fft2d.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/examples/CMakeFiles/example_examples_fft3d.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/examples/CMakeFiles/PACKAGE.dir
+C:/Development/op3d_active/clFFT-1.10/src/msvc/examples/CMakeFiles/INSTALL.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\clFFT-1.10\src\msvc\CMakeFiles\5dc1db53ad1e93a4341323557661a5e4\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E9131A92-0240-347A-84E1-6429DF593ABD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
